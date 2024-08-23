@@ -27,4 +27,12 @@ Any suggestions or changes are welcomed.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyasda/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
