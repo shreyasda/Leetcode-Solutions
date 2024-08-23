@@ -31,8 +31,14 @@ Any suggestions or changes are welcomed.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2551-apply-operations-to-an-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2551-apply-operations-to-an-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
