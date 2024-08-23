@@ -32,6 +32,7 @@ Any suggestions or changes are welcomed.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2728-sum-in-a-matrix](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2728-sum-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,17 @@ Any suggestions or changes are welcomed.
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2728-sum-in-a-matrix](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2728-sum-in-a-matrix) |
+## Sorting
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2728-sum-in-a-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2728-sum-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/shreyasda/Leetcode-Solutions/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
